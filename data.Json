@@ -1,0 +1,168 @@
+{
+    "myInfo": [
+        {
+            "Myprofilepic": "https://i.postimg.cc/y80D0jLY/C12-C2-Mujahid-Fisher-3.jpg",
+            "Myname": "Mujahid Fisher",
+            "Myoccupation": "Aspiring Web Developer",
+            "Mynumber": "+27 69 966 6173",
+            "Myemail": "fishermujahid@gamil.com",
+            "Mylocation": "Woodstock, CapeTown",
+            "Mylanguages": "English, Afrikaans"
+        }
+    ],
+    "education": [
+        {
+            "year": "2023",
+            "grades": "College",
+            "img": "https://i.postimg.cc/HkX01YKK/download.png",
+            "place": "Life Choices"
+        },
+        {
+            "year": "2019-2022",
+            "grades": "9-12",
+            "img": "https://i.postimg.cc/SKw7BXQw/download.jpg",
+            "place": "Trafalgar High School"
+        },
+        {
+            "year": "2018",
+            "grades": "8",
+            "img": "https://i.postimg.cc/pd7nm3g8/images.jpg",
+            "place": "Monument Park High"
+        },
+        {
+            "year": "2017",
+            "grades": "7",
+            "img": "https://i.postimg.cc/25fXWXhq/Fanie-Theron-Logo-fotor-bg-remover-2023070394427.png",
+            "place": "Fanie Theron"
+        },
+        {
+            "year": "2011-2016",
+            "grades": "1-6",
+            "img": "https://i.postimg.cc/2yVftXHk/portia.jpg",
+            "place": "Portia Primary"
+        }
+    ],
+    "skills": [
+        {
+            "desc": "I believe there is always something to do. So when I am not coding, I'm doing side jobs to use my time productively.",
+            "first": "Mechanic Work: I'v worked on cars before.",
+            "second": "Catering: I'v been a server at weddings and other functions.",
+            "third": "Gardening: I'v done odd jobs for my neighbors like cutting grass",
+            "forth": "Editor: I'v edited videos for people as a job."
+        }
+    ],
+    "qualifications": [
+        {
+            "matric": "Finished Matric with a Bachelors",
+            "current": "I am currently studing to be a Web Developer"
+        }
+    ],
+    "codingProgress": [
+        {
+            "img": "https://i.postimg.cc/WbYDYhnj/1200px-Bootstrap-logo-svg.png",
+            "name": "Bootstrap"
+        },
+        {
+            "img": "https://i.postimg.cc/sXZdz0Fw/js.png",
+            "name": "JavaScript"
+        },
+        {
+            "img": "https://i.postimg.cc/0jpTMMyS/css-3.png",
+            "name": "CSS"
+        },
+        {
+            "img": "https://i.postimg.cc/3JZM3v65/html.png",
+            "name": "HTML"
+        },
+        {
+            "img": "https://i.postimg.cc/fy0F439F/1200px-Vue-js-Logo-2-svg.png",
+            "name": "Vue.Js"
+        }
+    ],
+    "interests": [
+        {
+            "img": "https://i.postimg.cc/wjgnbQ6R/7324599431658406403-128.png",
+            "desc": "Racing"
+        },
+        {
+            "img": "https://i.postimg.cc/qvDQXsgT/12284239031585306874-128.png",
+            "desc": "Exercise"
+        },
+        {
+            "img": "https://i.postimg.cc/xT4b6tGt/12214640461556281121-128.png",
+            "desc": "Anime"
+        },
+        {
+            "img": "https://i.postimg.cc/448K3B0s/4284201491558095007-128.png",
+            "desc": "Gaming"
+        }
+    ],
+    "testimonials": [
+        {
+            "img": "https://i.postimg.cc/9XZDJhXM/alonso.jpg",
+            "name": "Alonso Cupido",
+            "testimony": "Mujahid is a very great person he works well in a team and also works really hard.He is very punctual and he has a good understanding of web development. He would be a great asset to your team and a very reliable team member.",
+            "sign": "~Alonso Cupido"
+        },
+        {
+            "img": "https://i.postimg.cc/1tx9q8qK/c11-uzukhanye-dywili-4-720.jpg",
+            "name": "Uzukhanye Dywili",
+            "testimony": "Mujahid is a hard-working individual with a passion for coding. I've seen his commitment first hand and it is an encouragement to everyone around him. He is a helpful person with an understanding of web development and all it's concepts. He is an individual you will be happy to have in your corner.",
+            "sign": "~Uzukhanye Dywili"
+        },
+        {
+            "img": "https://i.postimg.cc/x1hQwXtS/c12-keeno-fourie-1-720.jpg",
+            "name": "Keeno Fourie",
+            "testimony": "Working with Mujahid was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Mujahid to anyone looking for a talented and dedicated professional.",
+            "sign": "~Keeno Fourie"
+        },
+        {
+            "img": "https://i.postimg.cc/D0v3rLy1/summer.jpg",
+            "name": "Summer De Wet",
+            "testimony": "Mujahid is a very hard working and dedicated person, when he sets his mind to something, he gets it done. Beyond his technical skills, Mujahid is a very kind person who offers his assistance to anyone who needs it. His ability to work collaboratively makes him an invaluable member of any team.I would definitely recommend him because not only will he be an asset to the team, but his work ethics and passion for technology would serve him well in any role.",
+            "sign": "~Summer De Wet"
+        },
+        {
+            "img": "https://i.postimg.cc/HshY0vGz/ryan.jpg",
+            "name": "Ryan Evans",
+            "testimony": "Mujahid is one of the funniest and smartest person I know. He is truly a people's person and he makes the atmosphere less tense. He is someone who is willing and ready to lend a helping hand even if his helping you last minute. He is very outspoken and not shy to get his point across and can work absolutely well with groups. He is never afraid of asking the right questions.So if you looking for someone who has the best qualities, personality and brains he should be your first option, TRUST ME!",
+            "sign": "~Ryan Evans"
+        }
+    ],
+    "projects": [
+        {
+            "img": "https://i.postimg.cc/XvxhC8vW/Screenshot-2023-07-03-105817.png",
+            "desc": "This was a calendar i made for May.",
+            "site": "https://may-2023-calendar.netlify.app/"
+        },
+        {
+            "img": "https://i.postimg.cc/v81VCZfL/Screenshot-2023-07-03-105844.png",
+            "desc": "A temperature converter using Js",
+            "site": "https://temp-converter-mujifish.netlify.app/"
+        
+        },
+        {
+            "img": "https://i.postimg.cc/rmMfQtKJ/Screenshot-2023-07-03-105912.png",
+            "desc": "A calculator to calculater ones BMI",
+            "site": "https://how-heavy-are-you-bmi.netlify.app/"
+        
+        },
+        {
+            "img": "https://i.postimg.cc/Dz9STqqr/Screenshot-2023-07-03-105928.png",
+            "desc": "A calculator I made using html, css and js",
+            "site": "https://mujifish-calculator.netlify.app/"
+        
+        },
+        {
+            "img": "https://i.postimg.cc/Dw3p8DnH/Screenshot-2023-07-03-105949.png",
+            "desc": "My first full portfolio",
+            "site": "https://mujifishprofile.netlify.app/"
+        
+        },
+        {
+            "img": "https://i.postimg.cc/Y0qGnt6Z/Screenshot-2023-07-03-105858.png",
+            "desc": "My latest project which was an E-coms website",
+            "site": "https://mf-gaming-store.netlify.app/"
+        }
+    ]
+}
