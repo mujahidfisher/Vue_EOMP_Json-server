@@ -133,36 +133,42 @@
         {
             "img": "https://i.postimg.cc/XvxhC8vW/Screenshot-2023-07-03-105817.png",
             "desc": "This was a calendar i made for May.",
-            "site": "https://may-2023-calendar.netlify.app/"
+            "site": "https://may-2023-calendar.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/calendar.git"
         },
         {
             "img": "https://i.postimg.cc/v81VCZfL/Screenshot-2023-07-03-105844.png",
             "desc": "A temperature converter using Js",
-            "site": "https://temp-converter-mujifish.netlify.app/"
+            "site": "https://temp-converter-mujifish.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/converter.git"
         
         },
         {
             "img": "https://i.postimg.cc/rmMfQtKJ/Screenshot-2023-07-03-105912.png",
             "desc": "A calculator to calculater ones BMI",
-            "site": "https://how-heavy-are-you-bmi.netlify.app/"
+            "site": "https://how-heavy-are-you-bmi.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/BMI-CALCULATOR.git"
         
         },
         {
             "img": "https://i.postimg.cc/Dz9STqqr/Screenshot-2023-07-03-105928.png",
             "desc": "A calculator I made using html, css and js",
-            "site": "https://mujifish-calculator.netlify.app/"
+            "site": "https://mujifish-calculator.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/calculator.git"
         
         },
         {
             "img": "https://i.postimg.cc/Dw3p8DnH/Screenshot-2023-07-03-105949.png",
             "desc": "My first full portfolio",
-            "site": "https://mujifishprofile.netlify.app/"
+            "site": "https://mujifishprofile.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/End-Module-Project-Portfolio.git"
         
         },
         {
             "img": "https://i.postimg.cc/Y0qGnt6Z/Screenshot-2023-07-03-105858.png",
             "desc": "My latest project which was an E-coms website",
-            "site": "https://mf-gaming-store.netlify.app/"
+            "site": "https://mf-gaming-store.netlify.app/",
+            "gitlink": "https://github.com/mujahidfisher/END-OF-MODULE-PROJECT-JS.git"
         }
     ]
 }
