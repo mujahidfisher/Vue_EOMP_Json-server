@@ -1,13 +1,13 @@
 {
     "myInfo": [
         {
-            "Myprofilepic": "https://i.postimg.cc/y80D0jLY/C12-C2-Mujahid-Fisher-3.jpg",
-            "Myname": "Mujahid Fisher",
-            "Myoccupation": "Aspiring Web Developer",
-            "Mynumber": "+27 69 966 6173",
-            "Myemail": "fishermujahid@gamil.com",
-            "Mylocation": "Woodstock, CapeTown",
-            "Mylanguages": "English, Afrikaans"
+            "myprofilepic": "https://i.postimg.cc/y80D0jLY/C12-C2-Mujahid-Fisher-3.jpg",
+            "myname": "Mujahid Fisher",
+            "myoccupation": "Aspiring Web Developer",
+            "mynumber": "+27 69 966 6173",
+            "myemail": "fishermujahid@gamil.com",
+            "mylocation": "Woodstock, CapeTown",
+            "mylanguages": "English, Afrikaans"
         }
     ],
     "education": [
