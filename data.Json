@@ -14,7 +14,7 @@
         {
             "year": "2023",
             "grades": "College",
-            "img": "./images/1630505581427.jpeg",
+            "img": "https://i.postimg.cc/rySPmfh3/1630505581427-removebg-preview.png",
             "place": "Life Choices"
         },
         {
@@ -59,29 +59,29 @@
     ],
     "codingProgress": [
         {
-            "img": "./images/bootstrap.png",
+            "img": "https://i.postimg.cc/kXbvjGSS/bootstrap-removebg-preview.png",
             "name": "Bootstrap"
         },
         {
-            "img": "./images/js.png",
+            "img": "https://i.postimg.cc/SNcDSdrR/js-removebg-preview.png",
             "name": "JavaScript"
         },
         {
-            "img": "./images/css-3.png",
+            "img": "https://i.postimg.cc/J0V7QpJS/css-3-removebg-preview.png",
             "name": "CSS"
         },
         {
-            "img": "./images/html.png",
+            "img": "https://i.postimg.cc/1zBD2NMW/html-removebg-preview.png",
             "name": "HTML"
         },
         {
-            "img": "./images/wordpress-logo.png",
+            "img": "https://i.postimg.cc/VLP2WdZS/wordpress-logo-removebg-preview.png",
             "name": "Wordpress"
         }
     ],
     "interests": [
         {
-            "img": "./images/programming.png",
+            "img": "https://i.postimg.cc/L6VQkvZ7/programming-removebg-preview.png",
             "desc": "Programming"
         },
         {
@@ -95,7 +95,7 @@
     ],
     "testcards": [
         {
-            "img": "./images/alonso.jpg",
+            "img": "https://i.postimg.cc/dVzMbLNK/alonso-removebg-preview.png",
             "name": "Alonso Cupido",
             "testimony": "Mujahid is a very great person he works well in a team and also works really hard.He is very punctual and he has a good understanding of web development. He would be a great asset to your team and a very reliable team member.",
             "sign": "~Alonso Cupido"
@@ -107,7 +107,7 @@
             "sign": "~Codi Kader"
         },
         {
-            "img": "./images/c12-keeno-fourie-1-720.jpg",
+            "img": "https://i.postimg.cc/J47v29mm/c12-keeno-fourie-1-720-removebg-preview.png",
             "name": "Keeno Fourie",
             "testimony": "Working with Mujahid was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Mujahid to anyone looking for a talented and dedicated professional.",
             "sign": "~Keeno Fourie"
@@ -161,7 +161,7 @@
         
         },
         {
-            "img": "./images/Screenshot 2024-02-05 113953.png",
+            "img": "https://i.postimg.cc/rsGdRDz6/Screenshot-2024-02-05-114229-removebg-preview.png",
             "desc": "My latest project which was an E-coms website",
             "site": "https://mf-gaming-store.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/END-OF-MODULE-PROJECT-JS.git"
