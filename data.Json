@@ -1,7 +1,7 @@
 {
     "myInfo": [
         {
-            "myprofilepic": "./images/C12-C2-Mujahid-Fisher-3.jpg",
+            "myprofilepic": "https://i.postimg.cc/vmsdjJk8/C12-C2-Mujahid-Fisher-3.jpg",
             "myname": "Mujahid Fisher",
             "myoccupation": "Aspiring Web Developer",
             "mynumber": "+27 69 966 6173",
@@ -20,25 +20,25 @@
         {
             "year": "2019-2022",
             "grades": "9-12",
-            "img": "./images/Logo_badge_for_Trafalgar_High_School_in_Cape_Town.png",
+            "img": "https://i.postimg.cc/Xvk0026f/Logo-badge-for-Trafalgar-High-School-in-Cape-Town.png",
             "place": "Trafalgar High School"
         },
         {
             "year": "2018",
             "grades": "8",
-            "img": "./images/download.png",
+            "img": "https://i.postimg.cc/4dxjRs5G/download.png",
             "place": "Monument Park High"
         },
         {
             "year": "2017",
             "grades": "7",
-            "img": "./images/Fanie-Theron-Logo.png",
+            "img": "https://i.postimg.cc/fT1s7tv9/Fanie-Theron-Logo.png",
             "place": "Fanie Theron"
         },
         {
             "year": "2011-2016",
             "grades": "1-6",
-            "img": "./images/78167568679.png",
+            "img": "https://i.postimg.cc/K8t6n9z6/78167568679.png",
             "place": "Portia Primary"
         }
     ],
@@ -85,11 +85,11 @@
             "desc": "Programming"
         },
         {
-            "img": "./images/running.png",
+            "img": "https://i.postimg.cc/HxW1WQTf/running.png",
             "desc": "Exercise"
         },
         {
-            "img": "./images/otaku.png",
+            "img": "https://i.postimg.cc/8zWSZpyn/otaku.png",
             "desc": "Anime"
         }
     ],
@@ -101,7 +101,7 @@
             "sign": "~Alonso Cupido"
         },
         {
-            "img": "./images/T02LW4RMXJQ-U051M9HC59B-7afcbaa82884-512.jpg",
+            "img": "https://i.postimg.cc/8PfQCkVP/T02-LW4-RMXJQ-U051-M9-HC59-B-7afcbaa82884-512.jpg",
             "name": "Codi Kader",
             "testimony": "Mujahid is a hard-working individual with a passion for coding. I've seen his commitment first hand and it is an encouragement to everyone around him. He is a helpful person with an understanding of web development and all it's concepts. He is an individual you will be happy to have in your corner.",
             "sign": "~Codi Kader"
@@ -113,13 +113,13 @@
             "sign": "~Keeno Fourie"
         },
         {
-            "img": "./images/summer.jpg",
+            "img": "https://i.postimg.cc/7LDpXgJf/summer.jpg",
             "name": "Summer De Wet",
             "testimony": "Mujahid is a very hard working and dedicated person, when he sets his mind to something, he gets it done. Beyond his technical skills, Mujahid is a very kind person who offers his assistance to anyone who needs it. His ability to work collaboratively makes him an invaluable member of any team.I would definitely recommend him because not only will he be an asset to the team, but his work ethics and passion for technology would serve him well in any role.",
             "sign": "~Summer De Wet"
         },
         {
-            "img": "./images/T02LW4RMXJQ-U0522F0PH9P-bdd0ec96b2f6-512.jpg",
+            "img": "https://i.postimg.cc/g299L9Yy/T02-LW4-RMXJQ-U0522-F0-PH9-P-bdd0ec96b2f6-512.jpg",
             "name": "Abdoel Samaai",
             "testimony": "Mujahid is one of the funniest and smartest person I know. He is truly a people's person and he makes the atmosphere less tense. He is someone who is willing and ready to lend a helping hand even if his helping you last minute. He is very outspoken and not shy to get his point across and can work absolutely well with groups. He is never afraid of asking the right questions.So if you looking for someone who has the best qualities, personality and brains he should be your first option, TRUST ME!",
             "sign": "~Abdoel Samaai"
@@ -127,34 +127,34 @@
     ],
     "projects": [
         {
-            "img": "./images/Screenshot 2024-02-05 113532.png",
+            "img": "https://i.postimg.cc/RFP5WNFq/Screenshot-2024-02-05-113532.png",
             "desc": "This was a calendar i made for May.",
             "site": "https://may-2023-calendar.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/calendar.git"
         },
         {
-            "img": "./images/Screenshot 2024-02-05 113734.png",
+            "img": "https://i.postimg.cc/qqzfy4hw/Screenshot-2024-02-05-113734.png",
             "desc": "A temperature converter using Js",
             "site": "https://temp-converter-mujifish.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/converter.git"
         
         },
         {
-            "img": "./images/Screenshot 2024-02-05 113827.png",
+            "img": "https://i.postimg.cc/hvwk06VB/Screenshot-2024-02-05-113827.png",
             "desc": "A calculator to calculater ones BMI",
             "site": "https://how-heavy-are-you-bmi.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/BMI-CALCULATOR.git"
         
         },
         {
-            "img": "./images/Screenshot 2024-02-05 113909.png",
+            "img": "https://i.postimg.cc/05B1xMFB/Screenshot-2024-02-05-113909.png",
             "desc": "A calculator I made using html, css and js",
             "site": "https://mujifish-calculator.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/calculator.git"
         
         },
         {
-            "img": "./images/Screenshot 2024-02-05 113953.png",
+            "img": "https://i.postimg.cc/yNP2Gk0n/Screenshot-2024-02-05-113953.png",
             "desc": "My first full portfolio",
             "site": "https://mujifishprofile.netlify.app/",
             "gitlink": "https://github.com/mujahidfisher/End-Module-Project-Portfolio.git"
